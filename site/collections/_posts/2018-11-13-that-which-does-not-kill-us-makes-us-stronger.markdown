@@ -2,8 +2,12 @@
 date: 2018-11-13 12:01:35
 title: That which does not kill us makes us stronger
 description: >-
+  {{ page.content | reading_time }}
+
   Bring to the table win-win survival strategies to ensure proactive domination.
   At the end of the day, going forward.
+
+  {{ page.content | reading_time }}
 tags:
   - travel
   - lifestyle
