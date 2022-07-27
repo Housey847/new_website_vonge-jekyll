@@ -1,8 +1,8 @@
 ---
-date: 2021-01-15 08:20:35 +0300
+date: 2021-01-15 05:20:35
 title: Desk setup
 subtitle: Photography
-image: '/images/project-1.jpg'
+image: /uploads/043c7e51-ad2b-425a-8716-54e35441eea6.JPG
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
