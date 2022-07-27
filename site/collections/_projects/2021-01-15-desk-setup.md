@@ -1,6 +1,6 @@
 ---
 date: 2021-01-15 05:20:35
-title: Desk setup
+title: Cupcake
 subtitle: Photography
 image: /uploads/043c7e51-ad2b-425a-8716-54e35441eea6.JPG
 ---
